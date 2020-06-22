@@ -1,5 +1,7 @@
 # Knowledge
 
+![Markdown Formatting](https://github.com/pniewiejski/knowledge/workflows/Markdown%20Formatting/badge.svg)
+
 💡 Notes on stuff
 
 ## Other repos:

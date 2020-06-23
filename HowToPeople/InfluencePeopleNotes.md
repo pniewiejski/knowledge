@@ -63,6 +63,9 @@ past.”_
 > “If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an
 > empty victory because you will never get your oponent’s good will. ~ Benjamin Franklin
 
+✨ **Magic phrase:** Well, now, look. I thought otherwise but I may be wrong. I frequently am. And
+if I am wrong, I want to be put right. Let's examine the facts.
+
 #### Welcome the disagreement.
 
 > “When two partners always agree, one of them is not necessary”.
@@ -136,16 +139,19 @@ that person - from my knowledge of his or her interests and motives - was likely
 
 #### Be sympathetic with the other person’s ideas and desires
 
-**Magic phrase:** _"I don’t blame you one iota for feeling as you do. If I were you, I would
+✨ **Magic phrase:** _"I don’t blame you one iota for feeling as you do. If I were you, I would
 undoubtedly feel the same as you do."_
 
 Remember: You deserve very little credit for being the way you are.
 
-#### Also...
+#### Appeal to nobler motives
 
-- Appeal to nobler motives
-- Dramatize your ideas
-- Throw down a challenge The desire to excel! The challenge! Throwing down the gauntlet! An
-  infallible way of appealing to people of spirit.
-  > “All men have fears, but the brave ones put down their fears and go forward, sometimes to death,
-  > but always to victory.”
+#### Dramatize your ideas
+
+#### Throw down a challenge
+
+The desire to excel! The challenge! Throwing down the gauntlet! An infallible way of appealing to
+people of spirit.
+
+> “All men have fears, but the brave ones put down their fears and go forward, sometimes to death,
+> but always to victory.”

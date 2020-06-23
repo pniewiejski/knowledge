@@ -427,7 +427,7 @@ better to avoid losing 10$, than winning 10$. Furthermore, a person who loses
 The graph below taken from _Wikipedia_ presents the idea of loss aversion.
 
 <div align="center">
-<img width="400" src="./Loss_Aversion.png">
+<img width="400" src="./assets/Loss_Aversion.png">
 </div>
 
 **We are more strongly driven towards avoiding losses than to achieve gains!**

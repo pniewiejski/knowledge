@@ -4,7 +4,7 @@ This is a collection of quotes and notes from a great book by **Dale Carnegie**.
 
 ## Fundamental techniques in handling people 🤝
 
-#### Don’t criticise, condemn or complain
+#### Don’t criticize, condemn or complain
 
 Criticism is futile because it puts people in a defensive and usually makes him strive to justify
 himself. Criticism is dangerous because it wounds person’s precious pride, hurts his sense of
@@ -61,7 +61,7 @@ past.”_
 #### You cannot will an argument.
 
 > “If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an
-> empty victory because you will never get your oponent’s good will. ~ Benjamin Franklin
+> empty victory because you will never get your opponent's good will. ~ Benjamin Franklin
 
 ✨ **Magic phrase:** Well, now, look. I thought otherwise but I may be wrong. I frequently am. And
 if I am wrong, I want to be put right. Let's examine the facts.
@@ -86,7 +86,7 @@ understanding.
 
 #### Look for areas of agreement.
 
-Be honest. Look for areas where you can admit error. Apologise for your mistakes. Promise to think
+Be honest. Look for areas where you can admit error. Apologize for your mistakes. Promise to think
 over your opponents’ ideas and study them carefully. Thank your opponents sincerely for their
 interest. Think of them as of people who are really trying to help you, and you may turn your
 enemies into friends.
@@ -101,7 +101,7 @@ enemies into friends.
 
 > “You cannot teach men anything; you can only help him to find it within himself.” ~ Galileo
 
-Change your language and instead of words like “certainly”, “undoubtably”, use “I think”, “I
+Change your language and instead of words like “certainly”, "undoubtedly", use “I think”, “I
 imagine”, “I conceive”, “I apprehend”. If you are wrong admit it quickly and empathetically
 
 #### Begin in a friendly way
@@ -128,7 +128,7 @@ conclusion?
 
 #### Try to honestly see things from the other person’s point of view
 
-Remember thet other people may be totally wrong. But they don’t think so. Don’t condemn them. Any
+Remember that other people may be totally wrong. But they don’t think so. Don’t condemn them. Any
 fool can do that. Try to understand them. Only wise, tolerant, exceptional people even try to do
 that. **Think always in terms of the other person’s point of view, and see things from that person’s
 angle as well as your own.**

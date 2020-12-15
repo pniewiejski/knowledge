@@ -421,8 +421,8 @@ probability events.
 ### Loss aversion 💸
 
 People tend to prefer avoiding losses to equivalent gains. In other words, we think that it is
-better to avoid losing 10$, than winning 10$. Furthermore, a person who loses
-10$ will lose more satisfaction than a person who won 10$.
+better to avoid losing 10$, than winning 10$. Furthermore, a person who loses 10$ will lose more
+satisfaction than a person who won 10$.
 
 The graph below taken from _Wikipedia_ presents the idea of loss aversion.
 

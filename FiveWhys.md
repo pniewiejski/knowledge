@@ -40,8 +40,8 @@ was a human communication within a company. When asking _"Why?"_ you want to be 
 do not give blunt (typical) answers such as: there was not enough time, there were not enough
 resources, etc. We want to stay focused on things that we can **control**.
 
-Never name blame people. Do not call _worker's inattention_ or _human mistake_ the root cause. Try
-to understand what could have led to it. Again - we want to find a faulty process.
+Never blame people. Do not call _worker's inattention_ or _human mistake_ the root cause. Try to
+understand what could have led to it. Again - we want to find a faulty process.
 
 When organizing a meeting make sure that key persons (which might be responsible for or participate
 in a process that fails) are present. You want to give a clear _problem statement_. What is that you

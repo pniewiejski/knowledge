@@ -120,8 +120,8 @@ In the end we want something that enables conversation about a requirement, capt
 what the customer wants, and is small enough that it can be planned, **yet descriptive enough to
 remind us what we are talking about**.
 
-**User stories have to be meaningfully to business.** For that reason we want to write them in
-simple, understandable terms. Be carefully about using a very technical language.
+**User stories have to be meaningful to business.** For that reason we want to write them in simple,
+understandable terms. Be carefully about using a very technical language.
 
 **User story should:**
 
@@ -259,7 +259,7 @@ best of yourself today?_, _How are you going to go through all obstacles?_
 
 This will improve the dynamics. **Instead of just giving a status report, you are declaring your
 intent in front on the team.** From that point, you can either follow through and deliver, or not.
-It's up to you! (Imagine this last sentence said with Jock Willing's voice 😉)
+It's up to you! (Imagine this last sentence said with Jocko Willing's voice 😉)
 
 ### Own it 💪
 

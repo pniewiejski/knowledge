@@ -1,3 +1,4 @@
+// test promise returning functions in jest:https://jestjs.io/docs/tutorial-async
 const assert = require("assert")
 
 const { asynchronous } = require("./async")

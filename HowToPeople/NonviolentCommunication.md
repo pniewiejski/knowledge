@@ -168,7 +168,7 @@ Why do you start doing something?
 
 ### Verification, Frame of reference
 
-### External or Internal Frame of Reference (Autorytet wewnętrzny vs zewnętrzny)
+#### External or Internal Frame of Reference (Autorytet wewnętrzny vs zewnętrzny)
 
 - Internal frame of reference
   - They are the ones to verify if something is good or wrong.
@@ -183,7 +183,7 @@ Why do you start doing something?
   - When communicating with person like that it may be worth to share with them a result of some
     studies, show how others did it, mention what are the believes of an authority in a given field.
 
-### Sorting by Self or Sorting by Others (Pierwszeństwo Ja vs Pierwszeństwo inni)
+#### Sorting by Self or Sorting by Others (Pierwszeństwo Ja vs Pierwszeństwo inni)
 
 - Sorting by Self
   - Focused on **their** experiences.

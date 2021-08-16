@@ -67,17 +67,17 @@ food produced but also indirectly. For instance, sedentary lifestyle led to shor
 interval. _“The birth interval for many farm peoples is around two years, half of that of hunter
 gatherers.”_
 
-Settled existence allowed people to store the surpluses of food. These surpluses are necessary for
+**Settled existence allowed people to store the surpluses of food. These surpluses are necessary for
 feeding the non-food-producing specialists. When the food can be stockpiled it is possible for a
-political elite to emerge and gain control over the produced food. They can then introduce taxation
+political elite to emerge and gain control over the produced food.** They can then introduce taxation
 and completely escape the need to produce food for themselves.
 
 > “Hence moderate-sized agricultural societies are often organized in chiefdoms, and kingdoms (…).
 > Those complex political units are much better able to mount a sustained war of conquest than is an
 > egalitarian band of hunters.”
 
-Stored surpluses of food can feed professional soldiers, priests (“who provide. Religious
-justification for wars of conquest”), craftsmen (artisans), and scribes.
+**Stored surpluses of food can feed professional soldiers, priests (“who provide. Religious
+justification for wars of conquest”), craftsmen (artisans), and scribes.**
 
 Big domesticated mammals became the main mean of transport until 19th century.
 
@@ -91,7 +91,7 @@ model of the origin of species by natural selection."_
 
 ### Apples or Indians
 
-- Of the 200,000 wild plant species, only a few thousand are eaten by humans, and just a few hundred
+- Out of the 200,000 wild plant species, only a few thousand are eaten by humans, and just a few hundred
   of them have been domesticated.
 
 - A dozen species account for 80% of the annual tonnage of all crops.
@@ -212,7 +212,7 @@ again elsewhere after their original domestication.
 
 > However, for most of the Fertile Crescent's founding crops, all cultivated variates in the world
 > today share only one arrangement of chromosomes out of the multiple arrangements found in the wild
-> ancestor; or else they share only a single mutation (out of many possible mutations) bu which the
+> ancestor; or else they share only a single mutation (out of many possible mutations) by which the
 > cultivated varieties differ from the wild ancestor in characteristics desirable to humans. For
 > instance, all cultivated peas share the same recessive gene that prevents ripe pods of cultivated
 > peas from spontaneously popping open and spilling their peas, as wild pea pods do.
@@ -223,12 +223,12 @@ latitude-related features of th climate.
 In Africa Fertile Crescent's founder crops reached Egypt and then south to Ethiopia but they did not
 spread further south than that. African agriculture south from Sahara desert was started by the
 domestication of plant indigenous to the Sahel zone and tropical West Africa. A similar
-climate-barrie blocked the spread of domesticated animals. Cattle, sheep, and goat reached reached
+climate-barrier blocked the spread of domesticated animals. Cattle, sheep, and goat reached reached
 South Africa some time between 1 and 200 A.D. - 8000 years after it was domesticated in the Fertile
 Crescent.
 
 For similar reasons spread of domesticated plants and animals in Americas was also very difficult if
-not impossible. Also it can be proofed that in America plants were domesticated independently.
+not impossible. It can be proved that in America plants were domesticated independently.
 Genetic studies showed that Fertile Crescent crops derive from only a single domestication process.
 Their spread was so quick that it preempted any other domestication of related or the same species.
 In contract to that, in Americas it was found that some corps come from related species or

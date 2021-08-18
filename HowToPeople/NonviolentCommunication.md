@@ -1,4 +1,4 @@
-# A reliable communication protocol between protein based organisms\_
+# A reliable communication protocol between protein based organisms
 
 These notes are mostly based on an awesome talk by Sławomir Sobótka -
 [_Jak dogadywać się z obcymi formami inteligencji?_ 🎥](https://www.youtube.com/watch?v=J-NG_qvYU74).

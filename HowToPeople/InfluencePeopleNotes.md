@@ -155,3 +155,7 @@ people of spirit.
 
 > “All men have fears, but the brave ones put down their fears and go forward, sometimes to death,
 > but always to victory.”
+
+## Further reading
+
+[krzysztof.io how to win friends notes](https://krzysztof.io/how-to-win-friends-and-influence-people/)

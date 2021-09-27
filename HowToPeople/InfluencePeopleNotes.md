@@ -18,10 +18,10 @@ vanity.
 
 #### Give honest and sincere appreciation
 
-Sigmund Freud said that everything you and I do springs from two motives: the sex urge and the
-desire to be great. If our ancestors hadn’t had this flaming urge for a feeling of importance,
-civilisation would have been impossible. Without it, we should have been just about like animals. Be
-hearty in your approbation and lavish in your praise.
+Sigmund Freud said that everything people do springs from two motives: the sex urge and the desire
+to be great. If our ancestors hadn’t had this flaming urge for a feeling of importance, civilization
+would have been impossible. Without it, we should have been just about like animals. Be hearty in
+your approbation and lavish in your praise.
 
 > "I shall pass this way but once; any good, therefore, that I can do or ant kindness that I can
 > show to any human being, let me do it now. Let me not defer nor neglect it, got I shall not pass
@@ -54,11 +54,11 @@ the feeling that I had done something for him without him being able to to do an
 return for me. This is a feeling that flows and sings in your memory long after the incident is
 past.”_
 
-#### Always make the other person feel important.
+#### Always make the other person feel important
 
 ## How to win people to your way of thinking 🤔
 
-#### You cannot will an argument.
+#### You cannot will an argument
 
 > “If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an
 > empty victory because you will never get your opponent's good will. ~ Benjamin Franklin
@@ -66,7 +66,7 @@ past.”_
 ✨ **Magic phrase:** Well, now, look. I thought otherwise but I may be wrong. I frequently am. And
 if I am wrong, I want to be put right. Let's examine the facts.
 
-#### Welcome the disagreement.
+#### Welcome the disagreement
 
 > “When two partners always agree, one of them is not necessary”.
 
@@ -74,17 +74,17 @@ If there is some point that you haven’t thought about, be thankful if it is br
 attention. Perhaps this disagreement is your opportunity to correct before you make a serious
 mistake.
 
-#### Distrust your first instinctive impression.
+#### Distrust your first instinctive impression
 
 Our first natural reaction in a disagreeable situation is to be defensive. Be careful. Keep calm and
 watch out for your first reaction.
 
-#### Listen first and Control your temper.
+#### Listen first and Control your temper
 
 Listen first. Give your opponents a chance to talk. Let them finish. Try to build bridges of
 understanding.
 
-#### Look for areas of agreement.
+#### Look for areas of agreement
 
 Be honest. Look for areas where you can admit error. Apologize for your mistakes. Promise to think
 over your opponents’ ideas and study them carefully. Thank your opponents sincerely for their
@@ -102,7 +102,7 @@ enemies into friends.
 > “You cannot teach men anything; you can only help him to find it within himself.” ~ Galileo
 
 Change your language and instead of words like “certainly”, "undoubtedly", use “I think”, “I
-imagine”, “I conceive”, “I apprehend”. If you are wrong admit it quickly and empathetically
+imagine”, “I conceive”, “I apprehend”. If you are wrong admit it quickly and empathetically.
 
 #### Begin in a friendly way
 
@@ -133,7 +133,7 @@ fool can do that. Try to understand them. Only wise, tolerant, exceptional peopl
 that. **Think always in terms of the other person’s point of view, and see things from that person’s
 angle as well as your own.**
 
-_"I would rather walk the sidewalk in from of a person’s office for two hours before an interview
+_"I would rather walk the sidewalk in front of a person’s office for two hours before an interview
 then stepped into that office without a perfectly clear idea of what I was going to say and what
 that person - from my knowledge of his or her interests and motives - was likely to answer."_
 

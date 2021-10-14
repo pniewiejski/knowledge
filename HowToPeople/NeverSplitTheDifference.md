@@ -47,7 +47,7 @@ about rational exchange of arguments is talking moonshine.
 
 ### Mirroring (_Isopraxism_)
 
-https://en.wikipedia.org/wiki/Mirroring
+[Mirroring](https://en.wikipedia.org/wiki/Mirroring)
 
 👉 Imitate and reflect your counterpart. Humans copy each other to comfort each other. Use speech
 patterns, body language, tone of voice. This way you and your counterpart will _sync_ and the other
@@ -91,7 +91,7 @@ ability to evaluate and respond to situations.
 👉 Admit to your mistakes.
 
 > The fastest and most efficient means of establishing a quick working relationship is to
-> acknowledge the negative and diffuse it.
+> **acknowledge the negative and diffuse it**.
 
 ### Be prepared
 
